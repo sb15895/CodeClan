@@ -1,0 +1,5 @@
+name: jupyterlab
+channels:
+  - conda-forge
+dependencies:
+  - matplotlib
